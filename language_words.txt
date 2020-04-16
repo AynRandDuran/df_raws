@@ -1258,7 +1258,7 @@ language_words
 	[VERB:charm:charms:charmed:charmed:charming]
 		[STANDARD_VERB]
 		
-[WORD:CHEEKS]
+[WORD:CHEEK]
 	[NOUN:cheek:cheeks]
 		[FRONT_COMPOUND_NOUN_SING]
 		[REAR_COMPOUND_NOUN_SING]
