@@ -962,6 +962,7 @@ creature_standard
 		[STATE_NAME:GAS:boiling elf's milk]
 		[STATE_ADJ:GAS:boiling elf's milk]
 		[PREFIX:NONE]
+		[MATERIAL_VALUE:5]
 		[MILKABLE:LOCAL_CREATURE_MAT:MILK:20000]
 	[CASTE:MALE]
 		[MALE]
