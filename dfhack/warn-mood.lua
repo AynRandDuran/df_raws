@@ -30,7 +30,7 @@ warning.ATTRS = {
     frame_width = 20,
     frame_height = 18,
     frame_inset = 1,
-    focus_path = 'mood-timer',
+    focus_path = 'warn-mood',
 }
 
 function warning:init(args)
